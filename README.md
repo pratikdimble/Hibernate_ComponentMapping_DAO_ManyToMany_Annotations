@@ -1,0 +1,1 @@
+# Hibernate_ComponentMapping_DAO_ManyToMany_Annotations
